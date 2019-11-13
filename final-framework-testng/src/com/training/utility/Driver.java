@@ -12,5 +12,9 @@ public interface Driver {
 	String FIREFOX_PATH ="";
 	String IE_PATH ="";
 	String PHANTOM_PATH="";
+	static void get(String string) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
